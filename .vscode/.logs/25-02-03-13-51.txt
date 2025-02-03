@@ -1,0 +1,40 @@
+25-02-03 13:51 Session started
+----------------------------------------
+13:57:29 Document switched to: c:\Users\oscar.iverbring\AppData\Roaming\Code\User\profiles\64fd6347\settings.json
+----------------------------------------
+14:01:31 040:000 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+
+14:02:17 039:000 > ,
+
+14:02:37 038:000 > }
+14:02:53 Document switched to: c:\Users\oscar.iverbring\AppData\Roaming\Code\User\profiles\64fd6347\settings.json
+----------------------------------------
+14:03:10 039:000 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+14:03:50 Document switched to: c:\Users\oscar.iverbring\AppData\Roaming\Code\User\profiles\64fd6347\settings.json
+----------------------------------------
+14:04:03 Document switched to: c:\Users\oscar.iverbring\github-classroom\prog1-wpf-TE23e-BrannstromIverbring-Oscar\.vscode\csharp.code-snippets
+----------------------------------------
+14:04:10 Document switched to: c:\Users\oscar.iverbring\AppData\Roaming\Code\User\profiles\64fd6347\settings.json
+----------------------------------------
+
+14:04:50 039:000 > }
+
+14:04:54 038:001 > ,

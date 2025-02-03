@@ -1,0 +1,9 @@
+25-02-03 14:06 Session started
+----------------------------------------
+14:06:24 Document switched to: c:\Users\oscar.iverbring\AppData\Roaming\Code\User\profiles\64fd6347\settings.json
+----------------------------------------
+14:06:31 Document switched to: c:\Users\oscar.iverbring\AppData\Roaming\Code\User\profiles\64fd6347\settings.json
+----------------------------------------
+
+14:06:35 040:000 > ,
+14:06:41 040:000 > ,,
