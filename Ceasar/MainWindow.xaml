@@ -1,0 +1,22 @@
+﻿<Window x:Class="Ceasar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ceasar"
+        mc:Ignorable="d"
+        Title="CeasarApp" SizeToContent="WidthAndHeight"
+        MinWidth="400">
+    <StackPanel Margin="10">
+        <Label>Text att kryptera:</Label>
+        <TextBox Name="txbInput"/>
+
+        <Label Margin="0,10,0,0">Nyckel (1–25):</Label>
+        <TextBox Name="txbKey"/>
+
+        <Button Margin="0,10,0,0" Click="KlickKryptera">Kryptera</Button>
+
+        <Label Margin="0,10,0,0">Krypterad text:</Label>
+        <TextBox Name="txbOutput" IsReadOnly="True" Height="100"/>
+    </StackPanel>
+</Window>

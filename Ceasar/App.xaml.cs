@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Ceasar_krypterare;
+namespace Ceasar;
 
 /// <summary>
 /// Interaction logic for App.xaml

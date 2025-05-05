@@ -1,7 +1,7 @@
-﻿<Application x:Class="Ceasar_krypterare.App"
+﻿<Application x:Class="Ceasar.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Ceasar_krypterare"
+             xmlns:local="clr-namespace:Ceasar"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
