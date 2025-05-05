@@ -1,0 +1,7 @@
+25-03-26 14:00 Session started
+----------------------------------------
+14:00:20 Document switched to: extension-output-ms-dotnettools.vscode-dotnet-runtime-#1-.NET Install Tool
+----------------------------------------
+14:00:21 000:000 > ms-dotnettools.csharp tried to install .NET 8.0.14~x64 but that install had already been requested. No downloads or changes were made.
+14:00:21 001:000 > ms-dotnettools.csharp requested to download the .NET Runtime.
+Downloading .NET version(s) 8.0.14~x64 ...

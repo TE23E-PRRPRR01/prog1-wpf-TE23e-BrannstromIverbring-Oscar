@@ -1,0 +1,10 @@
+25-02-05 11:37 Session started
+----------------------------------------
+11:37:30 Document switched to: c:\Users\oscar.iverbring\AppData\Roaming\Code\User\profiles\64fd6347\settings.json
+----------------------------------------
+11:39:15 Document switched to: c:\Users\oscar.iverbring\AppData\Roaming\Code\User\profiles\64fd6347\settings.json
+----------------------------------------
+11:39:17 Document switched to: c:\Users\oscar.iverbring\github-classroom\prog1-wpf-TE23e-BrannstromIverbring-Oscar\prog1-wpf-TE23e-BrannstromIverbring-Oscar.sln
+----------------------------------------
+11:42:01 Document switched to: c:\Users\oscar.iverbring\AppData\Roaming\Code\User\profiles\64fd6347\settings.json
+----------------------------------------
